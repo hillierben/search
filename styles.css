@@ -1,0 +1,132 @@
+/* forms */
+
+.alignRight {
+    text-align: right;
+    margin: 5px;
+}
+
+.middle {
+    text-align: center;
+    padding: 10px;
+    margin-top: 125px;
+    color:#4f5356;
+}
+
+.tpLft {
+    text-align: left;
+    margin-top: -30px;
+    margin-left: 20px;
+    color:#4f5356;
+}
+
+.boxRound {
+    width: 500px;
+    padding:10px;
+    border-radius:40px;
+    box-shadow:0 0 15px 4px rgba(0,0,0,0.06);
+}
+
+.buttonRound {
+    width: 60px;
+    padding:10px;
+    border-radius:10px;
+    box-shadow:0 0 15px 4px rgba(0,0,0,0.06);
+}
+
+/* text */
+.smallText {
+    color: black
+}
+
+.btn-ben {
+    --bs-btn-color:#2c2b2b;
+    --bs-btn-bg:#c0cad1;
+    --bs-btn-border-color:#c7d1db;
+    --bs-btn-hover-color:#5c5c5c;
+    --bs-btn-hover-bg:#bbc7d0;
+    --bs-btn-hover-border-color:#3c4044;
+    --bs-btn-focus-shadow-rgb:130,138,145;
+    --bs-btn-active-color:#fff;
+    --bs-btn-active-bg:#c6ccd1;
+    --bs-btn-active-border-color:#a2aeb9;
+    --bs-btn-active-shadow:inset 0 3px 5px rgba(158, 156, 156, 0.125);
+    --bs-btn-disabled-color:#fff;
+    --bs-btn-disabled-bg:#c3cfdb;
+    --bs-btn-disabled-border-color:#6c757d
+}
+
+.btn-adv {
+    --bs-btn-color:#ffffff;
+    --bs-btn-bg:#4080ad;
+    --bs-btn-border-color:#346392;
+    --bs-btn-hover-color:#e7e5e5;
+    --bs-btn-hover-bg:#18496e;
+    --bs-btn-hover-border-color:#1f4c78;
+    --bs-btn-focus-shadow-rgb:130,138,145;
+    --bs-btn-active-color:#fff;
+    --bs-btn-active-bg:#c6ccd1;
+    --bs-btn-active-border-color:#a2aeb9;
+    --bs-btn-active-shadow:inset 0 3px 5px rgba(158, 156, 156, 0.125);
+    --bs-btn-disabled-color:#fff;
+    --bs-btn-disabled-bg:#c3cfdb;
+    --bs-btn-disabled-border-color:#6c757d
+}
+
+.btn-bob {
+    --bs-btn-color:#fff;
+    --bs-btn-bg:#ffffff;
+    --bs-btn-border-color:#ffffff;
+    --bs-btn-hover-color:#fff;
+    --bs-btn-hover-bg:#ffffff;
+    --bs-btn-hover-border-color:#ffffff;
+    --bs-btn-focus-shadow-rgb:130,138,145;
+    --bs-btn-active-color:#fff;
+    --bs-btn-active-bg:#c6ccd1;
+    --bs-btn-active-border-color:#ffffff;
+    --bs-btn-active-shadow:inset 0 3px 5px rgba(255, 255, 255, 0.125);
+    --bs-btn-disabled-color:#fff;
+    --bs-btn-disabled-bg:#ffffff;
+    --bs-btn-disabled-border-color:#6c757d;
+    padding: 5px;
+}
+
+.noUndLine {
+    text-decoration:none!important;
+    color:#4f5356;
+}
+.noUndLine:hover {
+    text-decoration:underline!important;
+    color: black;
+}
+
+.invisBtn {
+    background-color: white;
+    border-color: white;    
+}
+
+h1 {
+    font-size: 90px;
+}
+
+.p-pad {
+    padding-left: 10px;
+}
+
+.wPad {
+    padding-top: 5px;
+}
+
+.flex-container {
+    display: flex;
+}
+
+.flex-child {
+    flex: 1;
+}
+
+.flex-child:first-child {
+    margin-right: 20px;
+}
+
+
+
